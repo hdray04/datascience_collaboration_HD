@@ -1,7 +1,7 @@
 # Data science collaboration
 
 ## Project question 
-What question will our team investigate?
+Is there an association between exposure 1 and disease 1?
 
 ## Team 
 - Student name: analysis and visualisation
